@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T12:26:39.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="K31N7pJG2QQxewTOwGa2" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T12:49:49.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="uYyOX7y617AieInXhhlP" version="14.4.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -86,6 +86,169 @@
         </mxCell>
         <mxCell id="n86U9GOAkpvXNPcL8bkv-85" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="556" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-86" value="敏捷教练和项目经理&lt;br&gt;建立信任关系" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-87" value="敏捷教练停止对该团队的辅导" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-88" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1241" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-89" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-88" target="n86U9GOAkpvXNPcL8bkv-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-90" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-93" target="n86U9GOAkpvXNPcL8bkv-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="208.33333333333326" y="1391" as="sourcePoint" />
+            <mxPoint x="212" y="1431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-91" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="2271" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-92" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" target="n86U9GOAkpvXNPcL8bkv-91">
+          <mxGeometry x="-108" y="361" width="100" height="100" as="geometry">
+            <mxPoint x="212" y="2171" as="sourcePoint" />
+            <mxPoint x="-8" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-93" value="请求敏捷教练&lt;br&gt;每日站会的反馈" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1321" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-98" target="n86U9GOAkpvXNPcL8bkv-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372" y="1481" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-96" target="n86U9GOAkpvXNPcL8bkv-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-96" target="n86U9GOAkpvXNPcL8bkv-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-96" value="敏捷教练判断&lt;br&gt;团队每日站会&lt;br&gt;是否在优化阶段以上&lt;br&gt;（含）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="127" y="1600" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-98" target="n86U9GOAkpvXNPcL8bkv-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-98" value="敏捷教练判断&lt;br&gt;项目经理是否&lt;br&gt;较为愿意接收反馈" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="127" y="1430" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-99" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1561" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-100" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1731" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-102" target="n86U9GOAkpvXNPcL8bkv-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-102" value="敏捷教练给出正面反馈" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1781" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-104" target="n86U9GOAkpvXNPcL8bkv-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-104" value="敏捷教练给出改进建议" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-105" value="敏捷教练鼓励项目经理和团队" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152" y="2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-106" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312" y="1451" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-108" target="n86U9GOAkpvXNPcL8bkv-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-108" value="敏捷教练更多地给出正面反馈" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1781" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-109" target="n86U9GOAkpvXNPcL8bkv-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="1990" />
+              <mxPoint x="420" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-109" value="敏捷教练告知团队&lt;br&gt;如何开站会" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-123" target="n86U9GOAkpvXNPcL8bkv-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1781" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1770" />
+              <mxPoint x="450" y="1770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-113" target="n86U9GOAkpvXNPcL8bkv-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1841" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-113" value="敏捷教练和项目经理&lt;br&gt;建立信任关系" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1781" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-114" value="敏捷教练停止对该团队的辅导" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1781" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-116" target="n86U9GOAkpvXNPcL8bkv-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="682" y="1485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-116" target="n86U9GOAkpvXNPcL8bkv-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-116" value="敏捷教练判断&lt;br&gt;项目经理是否&lt;br&gt;非常不愿意接收反馈" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1430" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-119" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1561" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-120" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1451" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-123" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1721" width="175" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-126" value="" style="endArrow=classic;html=1;entryX=0.417;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-123" target="n86U9GOAkpvXNPcL8bkv-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1800" as="sourcePoint" />
+            <mxPoint x="610" y="1750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-127" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2004" width="180" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="1724" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-130" value="敏捷教练判断&lt;br&gt;团队每日站会&lt;br&gt;是否在优化阶段以下&lt;br&gt;（含）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1600" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-132" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1701" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-135" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312" y="1620" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
