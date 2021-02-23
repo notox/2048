@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T12:21:08.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="t6uPVkL6juJEaxklsFWq" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T12:26:39.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="K31N7pJG2QQxewTOwGa2" version="14.4.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -17,12 +17,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="40" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1910" width="120" height="30" as="geometry" />
+          <mxGeometry x="260" y="1090" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" target="40" edge="1">
-          <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint x="320" y="1810" as="sourcePoint" />
-            <mxPoint x="100" as="targetPoint" />
+          <mxGeometry y="-820" width="100" height="100" as="geometry">
+            <mxPoint x="320" y="990" as="sourcePoint" />
+            <mxPoint x="100" y="-820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n86U9GOAkpvXNPcL8bkv-56" value="请求敏捷教练&lt;br&gt;每日站会的反馈" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
@@ -31,8 +31,10 @@
         <mxCell id="n86U9GOAkpvXNPcL8bkv-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-60" target="n86U9GOAkpvXNPcL8bkv-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n86U9GOAkpvXNPcL8bkv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-60" target="n86U9GOAkpvXNPcL8bkv-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-60" target="n86U9GOAkpvXNPcL8bkv-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n86U9GOAkpvXNPcL8bkv-60" value="敏捷教练判断&lt;br&gt;团队每日站会&lt;br&gt;是否在优化阶段以上" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="250" width="170" height="100" as="geometry" />
@@ -64,12 +66,6 @@
         <mxCell id="n86U9GOAkpvXNPcL8bkv-71" value="敏捷教练鼓励项目经理和团队" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="833" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n86U9GOAkpvXNPcL8bkv-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-74" target="n86U9GOAkpvXNPcL8bkv-83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n86U9GOAkpvXNPcL8bkv-74" value="敏捷教练判断&lt;br&gt;团队每日站会是否&lt;br&gt;在入门或固化阶段" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="250" width="170" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="n86U9GOAkpvXNPcL8bkv-76" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="40" height="20" as="geometry" />
         </mxCell>
@@ -77,22 +73,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n86U9GOAkpvXNPcL8bkv-78" value="敏捷教练更多地给出正面反馈" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="505" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="815" y="606" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n86U9GOAkpvXNPcL8bkv-79" value="敏捷教练告知团队&lt;br&gt;如何开站会" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="505" y="713" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="n86U9GOAkpvXNPcL8bkv-82" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="40" height="20" as="geometry" />
+          <mxGeometry x="815" y="719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n86U9GOAkpvXNPcL8bkv-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n86U9GOAkpvXNPcL8bkv-83" target="n86U9GOAkpvXNPcL8bkv-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n86U9GOAkpvXNPcL8bkv-83" value="敏捷教练判断&lt;br&gt;项目经理是否&lt;br&gt;较为愿意接收反馈" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="414" width="170" height="110" as="geometry" />
+        <mxCell id="n86U9GOAkpvXNPcL8bkv-83" value="敏捷教练判断&lt;br&gt;项目经理是否&lt;br&gt;接收反馈意愿不强" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n86U9GOAkpvXNPcL8bkv-85" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="550" width="40" height="20" as="geometry" />
+          <mxGeometry x="830" y="556" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
